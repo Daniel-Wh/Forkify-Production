@@ -1,6 +1,6 @@
 Simple example application built with vanilla Javascript, served by flask
 
-Available searches within the app:
+Available search values within the app:
 
 carrot
 broccoli
