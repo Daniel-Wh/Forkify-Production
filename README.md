@@ -1,6 +1,6 @@
 Simple example application built with vanilla Javascript, served by flask
 
-Available search values within the app:
+Available search values within the app: Favorites are stored locally for future access
 
 carrot
 broccoli
