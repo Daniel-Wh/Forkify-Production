@@ -1,5 +1,7 @@
 Simple example application built with vanilla Javascript, served by flask
 
+## ![site walk through](https://github.com/Daniel-Wh/Forkify-Production/blob/master/ezgif.com-optimize.gif)
+
 Available search values within the app: Favorites are stored locally for future access
 
 carrot
